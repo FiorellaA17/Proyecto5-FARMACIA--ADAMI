@@ -1,0 +1,12 @@
+C:\Users\Windows\Documents\SharpDevelop Projects\Proyecto5 FARMACIA\Trabajo integrador\obj\Debug\Trabajo integrador.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\SharpDevelop Projects\Proyecto5 FARMACIA\Trabajo integrador\bin\Debug\Trabajo integrador.exe.config
+C:\Users\Windows\Documents\SharpDevelop Projects\Proyecto5 FARMACIA\Trabajo integrador\bin\Debug\Trabajo integrador.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\Proyecto5 FARMACIA\Trabajo integrador\bin\Debug\Trabajo integrador.pdb
+C:\Users\Windows\Documents\SharpDevelop Projects\Proyecto5 FARMACIA\Trabajo integrador\obj\Debug\Trabajo integrador.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\Proyecto5 FARMACIA\Trabajo integrador\obj\Debug\Trabajo integrador.pdb
+C:\Users\Windows\Documents\SharpDevelop Projects\Proyecto5 FARMACIA- ADAMI\Trabajo integrador\bin\Debug\Trabajo integrador.exe.config
+C:\Users\Windows\Documents\SharpDevelop Projects\Proyecto5 FARMACIA- ADAMI\Trabajo integrador\bin\Debug\Trabajo integrador.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\Proyecto5 FARMACIA- ADAMI\Trabajo integrador\bin\Debug\Trabajo integrador.pdb
+C:\Users\Windows\Documents\SharpDevelop Projects\Proyecto5 FARMACIA- ADAMI\Trabajo integrador\obj\Debug\Trabajo integrador.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\SharpDevelop Projects\Proyecto5 FARMACIA- ADAMI\Trabajo integrador\obj\Debug\Trabajo integrador.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\Proyecto5 FARMACIA- ADAMI\Trabajo integrador\obj\Debug\Trabajo integrador.pdb
